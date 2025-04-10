@@ -1,4 +1,4 @@
-"use client"
+
 
 import { useState } from "react"
 import { Play, Pause } from "lucide-react"

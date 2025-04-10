@@ -1,4 +1,3 @@
-"use client"
 
 import { ChevronRight, Heart, ShoppingCart } from "lucide-react"
 import img from "../image/shopby.svg"

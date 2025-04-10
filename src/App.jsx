@@ -14,7 +14,7 @@ import Profile from "./components/Profile";
 import AllProduct from "./components/AllProduct";
 // import Navbar from "./components/Navbar";
 import Home from "./Page/Home";
-import NewProduct from "./components/Newproduct";
+import Newpro from "./components/Newpro";
 
 function App() {
   return (
@@ -30,7 +30,7 @@ function App() {
           <Route path="/Checkout" element={<Checkout/>} />
           <Route path="/Wishlist" element={<Wishlist/>} />
           <Route path="/Contact" element={<Contact/>} />
-          <Route path="/NewProduct" element={<NewProduct/>} />
+          <Route path="/Newpro" element={<Newpro/>} />
           <Route path="/Ourstory" element={<Ourstory/>} />
           <Route path="/First" element={<First/>} />
           <Route path="/Shopby" element={<Shopby/>} />
