@@ -3,7 +3,7 @@ import { FaTrash } from "react-icons/fa"
 import { Link } from "react-router-dom"
 import Navbar from "./Navbar";
 import Footer from "./Footer";
-import Cartim from "../image/cartim.svg"
+import Cartim from "../image/Cartim.svg"
 
 const CartPage = () => {
   const [cartItems, setCartItems] = useState([
